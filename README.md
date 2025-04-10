@@ -36,8 +36,8 @@ Para poder montar el proyecto sin dificultades, sigue los pasos descritos a cont
 ## 4. Instalar las dependencias de Laravel
 
 1. Abre la terminal dentro de la carpeta del proyecto.
-2. Ejecuta este comando composer install para instalar las dependencias de PHP
-3. Al terminar de instalar el composer, en la terminal ejecuta node_modules
+2. Ejecuta este comando `composer install` para instalar las dependencias de PHP
+3. Al terminar de instalar el composer, en la terminal ejecuta `npm intall` para intalar la carptea node_modules
  
 
 ---
@@ -49,7 +49,7 @@ Para poder montar el proyecto sin dificultades, sigue los pasos descritos a cont
 
 ## 6. Levanta el servidor
 
-1. Para encender el servidor del proyecto usa en la terminal php artisan serve
+1. Para encender el servidor del proyecto usa en la terminal `php artisan serve`
 
 ---
 
