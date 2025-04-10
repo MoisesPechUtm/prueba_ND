@@ -10,8 +10,8 @@ Sáltate este paso y ve directo al siguiente  [Agregar PHP al PATH](#2-agregar-p
 Sigue estos pasos:
 
 1. Abre este link para instalar PHP: [https://windows.php.net/download](https://windows.php.net/download)
-2. Busca una versión que diga **Thread Safe ZIP** (por ejemplo: `php-8.2.17-Win32-vs16-x64.zip`)
-3. Descarga y descomprime ese ZIP en una carpeta, por ejemplo: `C:\php`
+2. Busca una versión que diga **PHP 8.2 VS16 x64 Thread Safe** y descargalo en el primer viculo que dice Zip
+4. Descarga y descomprime ese ZIP en una carpeta, por ejemplo: `C:\php`
 
 ---
 
