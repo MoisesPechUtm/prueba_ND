@@ -47,7 +47,8 @@ Con el proyecto abierto:
 
 1. En la raíz del proyecto, crea un archivo llamado `.env`
 2. Copia todo lo que está en `.env.example` y pégalo en ese nuevo `.env`
-3. No se necesita cambios, ya que se usa SQlite como base de datos, esta ya viene dentro del proyecto
+3. No se necesita cambios, ya que se usa SQLite como base de datos, esta ya viene dentro del proyecto
+4. Para poder visualizar la base de datos, descargue la extensión de `SQLite3 Editor` en Visual estudio code
 
 ---
 
