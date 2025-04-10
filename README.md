@@ -22,7 +22,7 @@ Este paso es clave para que puedas usar `php` desde cualquier terminal.
 1. Ve a: `Panel de control > Sistema > Configuración avanzada del sistema > Variables de entorno`
 2. Busca la parte que dice **"Variables del sistema"**, selecciona `Path` y dale clic en `Editar`
 3. Ahí agrega la ruta donde tienes PHP, por ejemplo: `C:\php` o si usas XAMPP: `C:\xampp\php`
-4. Acepta todo y reinicia tu terminal (ya sea CMD o PowerShell)
+4. Acepta todo y reinicia tu terminal 
 
 ---
 
