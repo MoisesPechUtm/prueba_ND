@@ -22,35 +22,34 @@ Para poder montar el proyecto sin dificultades, sigue los pasos descritos a cont
 
 1. Ve a `Panel de control > Sistema > Configuración avanzada del sistema > Variables de entorno`.
 2. En **"Variables del sistema"**, selecciona `Path` > `Editar`.
-3. Agrega la siguiente ruta:  
+3. Agrega la siguiente ruta: `C:\php` o `C:\xampp\php`
 4. Acepta y reinicia tu terminal (cmd o PowerShell).
 
 ---
 
 ## 3. Montar el Proyecto
 
-1. Una vez que PHP esté instalado de forma global, descarga el proyecto desde el repositorio o ubicación correspondiente.
+1. Una vez que PHP esté instalado de forma global, descarga el proyecto desde el repositorio correspondiente.
 
 ---
 
 ## 4. Instalar las dependencias de Laravel
 
 1. Abre la terminal dentro de la carpeta del proyecto.
-2. Ejecuta el siguiente comando para instalar las dependencias de PHP:
-composer install
-node_modules
-
+2. Ejecuta este comando composer install para instalar las dependencias de PHP
+3. Al terminar de instalar el composer, en la terminal ejecuta node_modules
+ 
 
 ---
 
-## 5. Agregar la conexión a la base de datos
+## 5. Crear la conexión a la base de datos
 
 1. Crea un archivo llamado `.env` en la raíz del proyecto.
 2. Copia el contenido del archivo `.env.example` al nuevo archivo `.env`.
 
 ## 6. Levanta el servidor
 
-1. Usando el comando php artisan serve
+1. Para encender el servidor del proyecto usa en la terminal php artisan serve
 
 ---
 
